@@ -2,6 +2,9 @@
 
 A simple Python GUI app to play local MP3 files through Sonos speakers on your network.
 
+<img width="523" height="431" alt="Screenshot 2026-02-20 at 6 57 50 AM" src="https://github.com/user-attachments/assets/d3740f84-e3c2-43a9-9794-a5fa9127c9de" />
+
+
 ## Requirements
 
 - Python 3.10+
