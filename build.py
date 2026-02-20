@@ -72,11 +72,11 @@ def build():
     subprocess.check_call(args)
 
     if system == "Darwin":
-        print("\n✓ Build complete: dist/SonosPlay.app")
+        print("\nBuild complete: dist/SonosPlay.app")
     elif system == "Windows":
-        print("\n✓ Build complete: dist/SonosPlay.exe")
+        print("\nBuild complete: dist/SonosPlay.exe")
     else:
-        print("\n✓ Build complete: dist/SonosPlay")
+        print("\nBuild complete: dist/SonosPlay")
 
 
 if __name__ == "__main__":
